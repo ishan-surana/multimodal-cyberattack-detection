@@ -1,9 +1,10 @@
 pandas
 numpy
 scikit-learn
-tensorflow
+tensorflow===2.15.0
 nltk
 emoji
 networkx
 matplotlib
 streamlit
+keras===2.15.0
